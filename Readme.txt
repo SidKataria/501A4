@@ -4,4 +4,4 @@
 ** Assignment 4
 */
 
-Code for CPSC 501 Assignment 4; Part 1.
+Code for CPSC 501 Assignment 4.
